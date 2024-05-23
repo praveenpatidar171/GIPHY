@@ -1,2 +1,2 @@
 # GIPHY
-It is a clone of Giphy where you can see different-different types of GIFS.
+It is an amazing Giphy site where you can see different types of GIFS.
